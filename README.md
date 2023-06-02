@@ -2,7 +2,6 @@
 
 
 <h3 align="center"><b>📋 Languages 📋</b></h3>
-</br>
 <p align="center">
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,7 +13,6 @@
 </br>
 
 <h3 align="center"><b>📚 FrameWorks 📚</b></h3>
-</br>
 <p align="center">
 <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -31,7 +29,6 @@
 
 </br>
 <h3 align="center"><b>💾 Databases 💾</b></h3>
-</br>
 <p align="center">
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -42,7 +39,6 @@
 </br>
 
 <h3 align="center"><b>🎨 Design 🎨</b></h3>
-</br>
 <p align="center">
  <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -50,7 +46,6 @@
 </br>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
-</br>
 <p align="center">
 <a href="https://www.instagram.com/junsstory_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/junsstory_"/></a>
 </p>
