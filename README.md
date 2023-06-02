@@ -12,7 +12,7 @@
 </p>
 </br>
 
-<h3 align="center"><b>📚 FrameWorks 📚</b></h3>
+<h3 align="center"><b>📚 Frameworks and Libraries 📚</b></h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -28,6 +28,13 @@
 </p>
 
 </br>
+
+<h3 align="center"><b>🎨 Design 🎨 </b></h3>
+<p align="center">
+<img src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+</br>
+
 <h3 align="center"><b>💾 Databases 💾</b></h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
