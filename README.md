@@ -47,7 +47,7 @@
  <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
+</br>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
