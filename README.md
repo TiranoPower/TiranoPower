@@ -38,24 +38,11 @@
 
 </br>
 
-<h3 align="center"><b>🥅 Embedded 🥅</b></h3>
+<h3 align="center"><b>☁️ Other ☁️</b></h3>
 <p align="center">
+  <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src = "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-  
-</p>
-
-</br>
-
-<h3 align="center"><b>🎨 Design 🎨</b></h3>
-<p align="center">
- <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-</br>
-
-<h3 align="center"><b>☁️ Hosting ☁️</b></h3>
-<p align="center">
   <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)" />
 </p>
 
