@@ -26,9 +26,6 @@
 <img src = "https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src = "https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 <img src= "https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
- 
-  
-  
 </p>
 
 <h3 align="center"><b>💾 Databases 💾</b></h3>
@@ -40,13 +37,10 @@
 </p>
 
 
-<h3 align="center"><b>💾 Design 💾</b></h3>
-<img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<h3 align="center"><b>🎨 Design 🎨</b></h3>
 </br>
 <p align="center">
- 
-  
-  
+ <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 
