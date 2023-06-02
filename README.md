@@ -52,7 +52,7 @@
 
 </br>
 
-<h3 align="center"><b>🥅 IOT 🥅</b></h3>
+<h3 align="center"><b>🥅 Embedded 🥅</b></h3>
 <p align="center">
   <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src = "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
