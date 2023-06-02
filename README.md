@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiranoPower&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiranoPower&theme=default&show_icons=true)
