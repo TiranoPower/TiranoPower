@@ -1,2 +1,1 @@
-### 안녕하세요. FE 개발자를 희망하고 있는 변준우입니다.
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?usernameTiranoPower&show_icons=true&theme=tokyonight)
