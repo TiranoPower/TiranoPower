@@ -11,7 +11,7 @@
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-
+</br>
 
 <h3 align="center"><b>📚 FrameWorks 📚</b></h3>
 </br>
@@ -29,6 +29,7 @@
 <img src= "https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
+</br>
 <h3 align="center"><b>💾 Databases 💾</b></h3>
 </br>
 <p align="center">
@@ -37,6 +38,8 @@
 <img src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </p>
 
+
+</br>
 
 <h3 align="center"><b>🎨 Design 🎨</b></h3>
 </br>
