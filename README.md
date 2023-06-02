@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiranoPower&theme=default&show_icons=true)
+## 안녕하세요. 제 깃허브에 방문해주셔서 감사합니다.
+
+<span style="color:white">부산광역시에 거주하고 있으며, FE 개발자를 희망하고 있습니다.</span>
