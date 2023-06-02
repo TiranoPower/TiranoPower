@@ -55,11 +55,6 @@
 
 </br>
 
-<h3 align="center"><b>💌 Social 💌 </b></h3>
-<p align="center">
-<a href="https://www.instagram.com/junsstory_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/junsstory_"/></a>
-</p>
-
 <!----![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TiranoPower&show_icons=true&theme=default)----->
 
 
