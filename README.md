@@ -52,3 +52,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
+
+
+
+ <!---데분 관련 2개 + AI 2개, SASS 추가, AXIOS 추가-->
